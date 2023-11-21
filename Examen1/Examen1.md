@@ -1,5 +1,6 @@
 # Examen Pedro Valcarcel
 #### [Ver la licencia](https://github.com/SR2A/Pedro-Valcarcel/blob/main/Examen1/license.md)
+### [.gitignore]()
 ![Descripción de la foto](https://comunicacion.intecca.uned.es/wp-content/uploads/2017/04/slide-caption-1b5.png)
 ## 1.- Mayores debilidades y fortalezas de GitHub basado en las indagaciones que hicisteis en el ejercicio 4
 ### Mayores debilidades de GitHub:
