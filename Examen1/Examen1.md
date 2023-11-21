@@ -1,2 +1,2 @@
 #Examen Pedro Valcarcel
-![Texto alternativo](URL_de_la_imagen)
+![Texto alternativo]([URL_de_la_imagen](https://www.bing.com/images/create/seguridad-informatica/1-655c9c073075469c9e4d6fa44923c51a?id=%2fdCuc6bGES9Mm2AwsopxFw%3d%3d&view=detailv2&idpp=genimg&idpclose=1&FORM=SYDBIC)https://www.bing.com/images/create/seguridad-informatica/1-655c9c073075469c9e4d6fa44923c51a?id=%2fdCuc6bGES9Mm2AwsopxFw%3d%3d&view=detailv2&idpp=genimg&idpclose=1&FORM=SYDBIC)
