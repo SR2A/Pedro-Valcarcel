@@ -1,6 +1,6 @@
 # Examen Pedro Valcarcel
 #### [Ver la licencia](https://github.com/usuario/repositorio/blob/main/LICENSE.md)
-![Descripción de la foto)(https://comunicacion.intecca.uned.es/wp-content/uploads/2017/04/slide-caption-1b5.png)
+![Descripción de la foto](https://comunicacion.intecca.uned.es/wp-content/uploads/2017/04/slide-caption-1b5.png)
 ## 1.- Mayores debilidades y fortalezas de GitHub basado en las indagaciones que hicisteis en el ejercicio 4
 ### Mayores debilidades de GitHub:
 1. **Exposición de secretos:** A pesar de las alertas de seguridad, la exposición de secretos en repositorios públicos sigue siendo una debilidad importante. Los usuarios a menudo cometen errores al cargar archivos con información confidencial.
